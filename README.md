@@ -4,7 +4,7 @@
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/">Estácio</a>.
 - 💼 Trabalhando com **Engenharia de Software Backend** há 4 anos.
-- 🌱 &nbsp; Aprendendo mais sobre **Kubernetes, Go, SQL, Python, Java, DevOps, AWS, Spark**.
+- 🌱 &nbsp; Aprendendo mais sobre **Kotlin, Java, Go, AWS, Kubernetes, SQL, Python, DevOps**.
 
 <h3>Onde me encontrar</h3>
 
